@@ -1,0 +1,9 @@
+#!/usr/bin/env python3.8
+export TRANSFORMERS_CACHE='/ssddata/model_hub'
+export HF_DATASETS_CACHE='/ssddata/model_hub'
+export HF_HOME='/ssddata/model_hub'
+export PYTORCH_KERNEL_CACHE_PATH='/ssddata/shiqi/reasoning_trace'
+export CUDA_VISIBLE_DEVICES='0'
+export LMUData='/ssddata/model_hub'
+export https_proxy="127.0.0.1:50897"
+python llava_case_study.py

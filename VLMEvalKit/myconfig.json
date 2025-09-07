@@ -1,0 +1,16 @@
+{
+    "model": {
+        "MyLocalModel": {
+            "class": "LLaVA_Next", 
+            "model_path": "/data_all/intern05/models/llava_next_8b_hf",
+            "attn_implementation": "flash_attention_2",
+            "device_map": "auto"
+        }
+    },
+    "data": {
+        "MMBench_DEV_EN_V11": {
+            "class": "ImageMCQDataset",
+            "dataset": "MMBench_DEV_EN_V11"
+        }
+    }
+}
