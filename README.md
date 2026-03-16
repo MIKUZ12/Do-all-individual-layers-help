@@ -1,6 +1,6 @@
 # Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models
 
-[Project Page](https://mikuz12.github.io/Do_All_Individual_Layers_Help/) [Paper](https://arxiv.org/abs/2602.01167)
+[[Project Page]](https://mikuz12.github.io/Do_All_Individual_Layers_Help/) [[Paper]](https://arxiv.org/abs/2602.01167)
 
 ## Overview
 
