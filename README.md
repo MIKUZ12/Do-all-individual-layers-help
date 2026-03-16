@@ -1,8 +1,10 @@
-# TaLo (Task-Adaptive Layer Knockout)
+# Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models
+
+[Project Page](https://mikuz12.github.io/Do_All_Individual_Layers_Help/) [Paper](https://arxiv.org/abs/2602.01167)
 
 ## Overview
 
-TaLo works by:
+This repo works by:
 1. Probing different layers of a VLM to identify those that have the most positive impact on task performance
 2. Evaluating the effectiveness of modifications to these layers
 3. Providing insights into model behavior and optimization opportunities
