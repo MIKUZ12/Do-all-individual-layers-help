@@ -7,6 +7,9 @@
 <a href="https://mp.weixin.qq.com/s/G5YFTBbUP_5Sxy1VHkuR_w"><img src="https://img.shields.io/badge/wechat-tweet-green?logo=wechat"></a>
 </p>
 
+
+This is the official repository for our paper: Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models, accepted by CVPR'26 Findings.
+
 ## Overview
 
 This repo works by:
