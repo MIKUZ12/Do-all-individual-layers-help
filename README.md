@@ -1,8 +1,11 @@
 # Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models
 
 <p align="center">
-<a href="https://github.com/MIKUZ12/Do-all-individual-layers-help.git"><img src="https://img.shields.io/github/stars/MIKUZ12/Do-all-individual-layers-help?style=social"></a><a href="https://mikuz12.github.io/Do_All_Individual_Layers_Help/"><img src="https://img.shields.io/badge/arXiv-2602.01167-b31b1b?logo=arxiv"></a><a href="https://arxiv.org/abs/2602.01167"><img src="https://img.shields.io/badge/project-page-blue?logo=github">
-</a><a href="https://mp.weixin.qq.com/s/G5YFTBbUP_5Sxy1VHkuR_w"><img src="https://img.shields.io/badge/wechat-tweet-green?logo=wechat"></a>
+<a href="https://github.com/MIKUZ12/Do-all-individual-layers-help.git"><img src="https://img.shields.io/github/stars/MIKUZ12/Do-all-individual-layers-help?style=social"></a>
+<a href="https://mikuz12.github.io/Do_All_Individual_Layers_Help/"><img src="https://img.shields.io/badge/arXiv-2602.01167-b31b1b?logo=arxiv"></a>
+<a href="https://arxiv.org/abs/2602.01167"><img src="https://img.shields.io/badge/project-page-blue?logo=github"></a>
+<a href="https://mp.weixin.qq.com/s/G5YFTBbUP_5Sxy1VHkuR_w"><img src="https://img.shields.io/badge/wechat-tweet-green?logo=wechat"></a>
+</p>
 
 ## Overview
 
