@@ -8,6 +8,7 @@
 
 
 This is the official repository for our paper: Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models, accepted by CVPR'26 Findings.
+<img width="796" height="249" alt="image" src="https://github.com/user-attachments/assets/8d864559-abeb-444a-b223-f438e2346931" />
 
 ## Overview
 
