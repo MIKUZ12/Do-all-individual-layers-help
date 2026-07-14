@@ -120,3 +120,13 @@ TaLo generates comprehensive output including:
 - Identification of target layers for optimization
 
 Results are organized in a hierarchical directory structure based on model name, dataset, and shot count.
+
+## Bibtex
+```
+@article{liu2026all,
+  title={Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models},
+  author={Liu, Zhiming and Wei, Yujie and Feng, Lei and Su, Xiu and Xia, Xiaobo and Guan, Weili and Xie, Zeke and Yang, Shuo},
+  journal={arXiv preprint arXiv:2602.01167},
+  year={2026}
+}
+```
